@@ -3,19 +3,19 @@
 Developed a Python Flask-based Used Car Buying and Selling Platform that allows users to browse and purchase cars, submit cars for sale, manage wishlists, view profiles, and complete simulated buying/selling transactions. Implemented separate User and Admin functionality with authentication, car listing management, sell-request approval, transaction processing, image upload, filtering, and purchase history. Integrated Flask, PostgreSQL, HTML, CSS, JavaScript, Jinja2 Templates, and psycopg2 for full-stack web application development.
 
 ## Key Features
-👤 **User Registration & Login**<br>
-🔐 **Role-Based User/Admin Authentication**<br>
-🚗 **Car Browsing & Detailed Car Information**<br>
-🔎 **Advanced Car Filtering**<br>
-💰 **Buy & Sell Cars**<br>
-📸 **Car Image Upload**<br>
-❤️ **Wishlist Management**<br>
-💳 **Buyer & Seller Transaction Management**<br>
-🛠️ **Admin Dashboard & Sell Request Approval**<br>
-👨‍💼 **User Profile & Purchase History**<br>
-🔒 **Secure Password Hashing & Session Management**<br>
-✅ **Form Validation & Error Handling**<br>
-📱 **Responsive Web Interface**
+👤 User Registration & Login<br>
+🔐 Role-Based User/Admin Authentication<br>
+🚗 Car Browsing & Detailed Car Information<br>
+🔎 Advanced Car Filtering<br>
+💰 Buy & Sell Cars<br>
+📸 Car Image Upload<br>
+❤️ Wishlist Management<br>
+💳 Buyer & Seller Transaction Management<br>
+🛠️ Admin Dashboard & Sell Request Approval<br>
+👨‍💼 User Profile & Purchase History<br>
+🔒 Secure Password Hashing & Session Management<br>
+✅ Form Validation & Error Handling<br>
+📱 Responsive Web Interface
 
 ## Technologies Used
 **Frontend:**
